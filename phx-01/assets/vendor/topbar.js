@@ -50,9 +50,9 @@
       barThickness: 3,
       barColors: {
         0: "rgba(26,  188, 156, .9)",
-        ".25": "rgba(52,  152, 219, .9)",
+        ".25": "rgba(53, 88, 206, 0.9)",
         ".50": "rgba(241, 196, 15,  .9)",
-        ".75": "rgba(230, 126, 34,  .9)",
+        ".75": "rgba(9, 68, 107, 0.9)",
         "1.0": "rgba(211, 84,  0,   .9)",
       },
       shadowBlur: 10,
@@ -101,7 +101,7 @@
         if (delay) {
           if (delayTimerId) return;
           delayTimerId = setTimeout(() => topbar.show(), delay);
-        } else  {
+        } else {
           showing = true;
           if (fadeTimerId !== null) window.cancelAnimationFrame(fadeTimerId);
           if (!canvas) createCanvas();
@@ -162,4 +162,4 @@
   } else {
     this.topbar = topbar;
   }
-}.call(this, window, document));
+}).call(this, window, document);
