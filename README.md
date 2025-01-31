@@ -68,13 +68,8 @@ Este repositório foi criado para compartilhar meus estudos e aprendizados sobre
 
 Contribuições são bem-vindas! Se você quiser adicionar exemplos, corrigir erros ou sugerir melhorias, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.
 
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
+ Vamos codar! 🚀
 
-Feito com 💜 por [odiegoislva1]. Vamos codar! 🚀
-```
 
 
